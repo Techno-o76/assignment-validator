@@ -1,0 +1,9 @@
+pip install html.parser
+
+pip install pyyaml  # Or pip install ruamel.yaml (alternative library)
+
+npm install axios
+
+pip install css-parser
+
+pip install slimit

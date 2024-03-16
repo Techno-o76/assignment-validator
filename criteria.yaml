@@ -1,0 +1,26 @@
+# Example criteria.yaml (YAML format)
+html:
+    elements:
+        - header
+        - main
+        - footer
+    classes:
+        - .banner
+        - .content
+    data:
+        - "Sample data"
+
+javascript:
+    functions:
+        - initialize
+        - updateContent
+        
+css:
+    elements:
+        - .banner
+        - .content
+    properties:
+        .banner:
+            - background-color: '#f0f0f0'
+        .content:
+            - font-size: 16px
